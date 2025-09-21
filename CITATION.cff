@@ -9,7 +9,7 @@ authors:
     orcid: "https://orcid.org/0000-0001-5346-3058"   # remplace par ton vrai ORCID si dispo
 version: "1.0.0"
 date-released: 2025-09-21
-doi: "10.5281/zenodo.XXXXXXX"   # à remplacer après la release Zenodo
+doi: "10.5281/zenodo.17170422"   # à remplacer après la release Zenodo
 url: "https://github.com/fszk/internal-waves-finescale/"
 license: MIT
 keywords:
