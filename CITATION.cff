@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Code for 'Bottom topography effects on abyssal diapycnal mixing in the Eastern Mediterranean Sea'"
+message: "If you use this software, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: Kokoszka
+    given-names: Florian Volmer Martin
+    affiliation: "CNR–ISMAR, Naples, Italy"
+    orcid: "https://orcid.org/0000-0001-5346-3058"   # remplace par ton vrai ORCID si dispo
+version: "1.0.0"
+date-released: 2025-09-21
+doi: "10.5281/zenodo.XXXXXXX"   # à remplacer après la release Zenodo
+url: "https://github.com/fszk/internal-waves-finescale/"
+license: MIT
+keywords:
+  - oceanography
+  - internal waves
+  - diapycnal mixing
+  - shear-strain
+  - Mediterranean Sea
+  - bathymetry
